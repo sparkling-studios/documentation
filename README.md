@@ -1,2 +1,3 @@
-# documentation
-Repo that hosts all of our docs
+# Welcome to the docs
+
+Soon..
